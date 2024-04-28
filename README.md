@@ -51,6 +51,10 @@ In 2.0, instead of typing "changelog", type "whatsnew".
 - Added bit of stuff into "vidcoll"
 - Fixed "'vidcoll' is not recognized as an internal or external command, operable program or batch file." bug
 
+## 3.1 Reborn:
+- Fixed "shutdown" actually not shutting down BatchOS (commands were still working and custom prompt was still showing)
+- Completely changed kernel booting mode and shutdown mode, now doesn't launch a new cmd window anymore
+
 # Known bugs
 Bugs that the developer knows about.
-- In the Calculator, when dividing with an prime number, the result does not show decimals *(CANNOT FIX - BATCH DOESN'T SUPPORT DECIMALS)*
+- In the Calculator, when dividing with an prime number, the result does not show decimals *(CANNOT FIX ON BATCH - IT DOESN'T SUPPORT DECIMALS)*
