@@ -1,12 +1,12 @@
-# BatchOS is ending!
+# Original BatchOS has ended!
 It has been a fun ride, but since nobody cared about this thing that I worked for years on, I've decided to
-end this project. Someone can indeed make a fork and create their own features, I might praise them. If
+end the original project. Someone can indeed make a fork (that's what i did) and create their own features, I might praise them. If
 someone actually makes a fork, then I'll list each and every fork here. The best ones get a star from the
-man behind the original project (from me). Thanks for everything.
+man behind the original project (from Matto). Thanks for everything.
 - ⭐ [Matto58/BatchOS](https://github.com/Matto58/BatchOS)
-# The original pre-end README:
+
 # BatchOS
-BatchOS is a project paused 4 times, but continued again.
+BatchOS is a project paused 4 times, but continued again, in this repo.
 ## Versions:
 
 - 1.1 (old and useless)
@@ -18,11 +18,11 @@ BatchOS is a project paused 4 times, but continued again.
 - 3.0 pre-release 2
 - 3.0 pre-release 3
 - 3.0
+- 3.01R
 
 # Changelog
-When you download it, run "BatchOS.bat" and after you log in, type "whatsnew". (2.0 only)
-
-You can also do this in version 3.0 but instead of "whatsnew" it's "changelog".
+After you download it, run BatchOS.bat and type "changelog".
+In 2.0, instead of typing "changelog", type "whatsnew".
 
 # Changelog (3.0 b1+)
 ## 3.0 beta 1
