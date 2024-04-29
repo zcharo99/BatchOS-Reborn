@@ -1,1 +1,10 @@
 .vs/
+3.1R/BatchOS DEV.bat
+3.1R/devlogin.js
+3.1R/devlogin.exe
+3.1R/node_modules/
+3.1R/devloginobf.js
+3.1R/package-lock.json
+3.1R/package.json
+jsconfig.json
+.gitignore
