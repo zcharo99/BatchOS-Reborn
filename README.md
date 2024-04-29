@@ -4,6 +4,9 @@ end the original project. Someone can indeed make a fork (that's what i did) and
 someone actually makes a fork, then I'll list each and every fork here. The best ones get a star from the
 man behind the original project (from Matto). Thanks for everything.
 - ⭐ [Matto58/BatchOS](https://github.com/Matto58/BatchOS)
+- [zcharo99/BatchOS-Reborn](https://github.com/zcharo99/BatchOS-Reborn)
+
+Had to add my repository myself since the original repository is archived.
 
 # BatchOS
 BatchOS is a project paused 4 times, but continued again, in this repo.
